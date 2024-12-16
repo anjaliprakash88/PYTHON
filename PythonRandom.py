@@ -20,11 +20,3 @@ random.shuffle( list1 )
 print( list1 )
 
 
-import os
-
-# posix', 'nt', 'os2', 'ce', 'java' and 'riscos'.
-print(os.name)
-
-os.mkdir("d:\\newdir")
-
-print(os.getcwd())

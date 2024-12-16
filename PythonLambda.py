@@ -1,7 +1,7 @@
 # Lambda Functions in Python are anonymous functions,
 # A lambda function can take number of arguments at a time.But it returns only one argument at a time.
-
-
+#
+#
 # Syntax
 # lambda arguments: expression
 
